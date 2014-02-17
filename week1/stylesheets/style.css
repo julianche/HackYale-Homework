@@ -1,0 +1,16 @@
+body {
+  font-family: 'Helvetica';
+	font-size: 14px;
+  background-color: #fafafa;
+}
+h1 {
+	font-weight: normal;
+}
+
+p {
+  color: red;
+}
+
+.blue-text {
+  color: blue;
+}

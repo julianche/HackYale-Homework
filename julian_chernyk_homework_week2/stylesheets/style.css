@@ -1,0 +1,39 @@
+body {
+  font-family: 'Helvetica';
+	font-size: 14px;
+  background-color: #fafafa;
+  color: black;
+
+}
+h1 {
+	font-weight: normal;
+	color: green;
+}
+
+p2 {
+	text-decoration: underline;
+}
+p {
+  color: darkblue;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.redc{
+	color:darkred;
+}
+
+img {
+  border: 4pt solid #ddd;
+  padding: 5px;
+  background-color: white;
+}
+
+img:hover 
+{ 
+background-color:red;
+}
+
+.selector: hover {}
